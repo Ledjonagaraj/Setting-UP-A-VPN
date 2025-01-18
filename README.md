@@ -31,7 +31,7 @@ STEP 1 - Locate your own personal IP address by going to "www.showmyip.com" whic
 
 EXAMPLE 1A
 <p>
-<img src="https://imgur.com/a/tNh0SCE" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cCTydeW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
