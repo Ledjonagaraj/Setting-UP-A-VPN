@@ -176,9 +176,9 @@ EXAMPLE 4D
 <p>
 
 Looking at this exercise we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet.
-Home IP (USA): 137.103.51.136
-Virtual Machin IP (Italy): 20.216.176.18
-Virtual Machin IP VPN (Netherlands) 212.102.51.251
+Home IP (USA): 74.66.243.179
+Virtual Machin IP (Italy): 4.232.128.178
+Virtual Machin IP VPN (Netherlands) 169.150.196.144
 
   
 </p>
