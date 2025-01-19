@@ -44,15 +44,15 @@ STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free ac
 
 EXAMPLE 2A
 <p>
-<img src="https://i.imgur.com/K9oaS2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OV9Hh6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Creating the Virtual Machine on Example 2B the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
+Creating the Virtual Machine on Example 2B the VM as “VM-ItalyNorth” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
 
 EXAMPLE 2B
 <p>
-<img src="https://i.imgur.com/u3vclL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vElOmzc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -63,7 +63,7 @@ For the Username and Password you can create your custom information, just recor
 
 EXAMPLE 2C
 <p>
-<img src="https://i.imgur.com/rXIj3Zb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cEW8nAR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -74,7 +74,7 @@ Select the “Networking” tab towards the top of the page and view EXAMPLE 2D 
 
 EXAMPLE 2D
 <p>
-<img src="https://i.imgur.com/OgYgNLK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y6N0A8P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -83,26 +83,26 @@ Then select “Review and Create”, once it passes validation select “Create�
 </p>
 <br />
 
-NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “20.216.176.18”. See EXAMPLE 2E
+NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “4.232.128.178”. See EXAMPLE 2E
 
 EXAMPLE 2E
 
 <p>
-<img src="https://i.imgur.com/ZlH9zI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TCYI48a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 
 STEP 3 – Log Into the VM and Find IP Address
 <p>
-Now that we have set up the Virtual Machine we will connecting to it using the application “Remote Desktop Connection” (EXAMPLE 3A) and input the IP address for the VM that we located in EXAMPLE 2E and then input the set credentials we set when creating the VM (see EXAMPLE 3B). Once logged in, we will open the web browser and again look up www.whatismyipaddress.com (EXAMPLE 3C).
+Now that we have set up the Virtual Machine we will connecting to it using the application “Windows App” (EXAMPLE 3A) and input the IP address for the VM that we located in EXAMPLE 2E and then input the set credentials we set when creating the VM (see EXAMPLE 3B). Once logged in, we will open the web browser and again look up www.showmyip.com (EXAMPLE 3C).
 
   
 </p>
 <br />
 EXAMPLE 3A
 <p>
-<img src="https://i.imgur.com/YPBkMau.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p1Qa1P7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -112,24 +112,24 @@ EXAMPLE 3A
 
 EXAMPLE 3B
 <p>
-<img src="https://i.imgur.com/oPJr2w2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eFVnHNH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-When we look up the IP address for this VM through www.whatismyipaddress.com we see that this VM is showing the location for France (EXAMPLE 3C).
+When we look up the IP address for this VM through www.showmyip.com we see that this VM is showing the location for Italy (EXAMPLE 3C).
   
 </p>
 <br />
 
 EXAMPLE 3C
 <p>
-<img src="https://i.imgur.com/nWlX2UM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VHzRzSP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 STEP 4 – CONNECTING TO VPN (Free Version)
 
-Using the local computer go to protonvpn.com and create a free account (if you use the VM then French will display on your browser, so use local computer desktop). Once you are logged into your account, copy the URL from the Proton VPN website (EXAMPLE 4A) and then paste the URL to the VM web browser. 
+Using the local computer go to protonvpn.com and create a free account (if you use the VM then Italian will display on your browser, so use local computer desktop). Once you are logged into your account, copy the URL from the Proton VPN website (EXAMPLE 4A) and then paste the URL to the VM web browser. 
 
   
 </p>
@@ -137,7 +137,7 @@ Using the local computer go to protonvpn.com and create a free account (if you u
 
 EXAMPLE 4A
 <p>
-<img src="https://i.imgur.com/orO2O5y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PYiumpH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -149,36 +149,36 @@ Once you have logged into your Proton VPN account on the VM, you will select “
 
 EXAMPLE 4B
 <p>
-<img src="https://i.imgur.com/oqPHozb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wq65Syk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-On the left hand side of the VPN you can select a country where you want your VPN to be, the image below shows the VPN being connected to an IP in Japan. See EXAMPLE 4C
+On the left hand side of the VPN you can select a country where you want your VPN to be, the image below shows the VPN being connected to an IP in Netherlands. See EXAMPLE 4C
   
 </p>
 <br />
 
 EXAMPLE 4C
 <p>
-<img src="https://i.imgur.com/6Rdgg6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XZd4J7r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Next we will look at the IP again using the VM browser now that we have connected the VPN to Japan. The website www.whatismyipaddress.com shows yet another IP address using the VPN from Japan. This is quite amazing.
+Next we will look at the IP again using the VM browser now that we have connected the VPN to Netherlands. The website www.showmyip.com shows yet another IP address using the VPN from Netherlands. This is quite amazing.
   
 </p>
 <br />
 
 EXAMPLE 4D
 <p>
-<img src="https://i.imgur.com/lQsISWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7ASNQZE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 Looking at this exercise we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet.
 Home IP (USA): 137.103.51.136
-Virtual Machin IP (France): 20.216.176.18
-Virtual Machin IP VPN (Japan) 212.102.51.251
+Virtual Machin IP (Italy): 20.216.176.18
+Virtual Machin IP VPN (Netherlands) 212.102.51.251
 
   
 </p>
