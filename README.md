@@ -177,8 +177,8 @@ EXAMPLE 4D
 
 Looking at this exercise we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet.
 Home IP (USA): 74.66.243.179
-Virtual Machin IP (Italy): 4.232.128.178
-Virtual Machin IP VPN (Netherlands) 169.150.196.144
+Virtual Machine IP (Italy): 4.232.128.178
+Virtual Machine IP VPN (Netherlands) 169.150.196.144
 
   
 </p>
